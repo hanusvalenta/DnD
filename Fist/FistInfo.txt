@@ -1,0 +1,10 @@
+1-6 fail
+7-9 partial success
+10-11 success
+12 AAAAAAAAAAAAAAAAAAAAAAAAAAVEEEE MARRRRRRRRRRIIIIIIIIAAAAAAAAAAA
+
+wolf
+tiger
+demon
+dragon
+god
